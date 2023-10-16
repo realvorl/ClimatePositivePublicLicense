@@ -1,0 +1,73 @@
+           Climate Positive Public License (CPPL), Version 1
+
+This Climate Positive Public License (CPPL) applies to any program or other 
+work which contains a notice placed by the copyright holder stating it may be 
+distributed under the terms of the Climate Positive Public License.
+
+1. Definitions.
+
+"Program" refers to any such program or work, and a "work based on the Program"
+means either the Program or any derivative work under copyright law. Each 
+licensee is addressed as "you".
+
+"Climate Positive Actions" refers to actions or practices during software 
+development, distribution, and operation that are climate-friendly, CO2 neutral, 
+carbon-capturing, or contribute to the reduction of greenhouse gases in the 
+atmosphere.
+
+2. Copying and Distribution.
+
+You may copy and distribute verbatim copies of the Program's source code as 
+you receive it, in any medium, provided that you:
+
+- Conspicuously and appropriately label the Program as being produced with 
+  Climate Positive Actions.
+
+- Ensure your own projects that utilize the Program adhere to Climate Positive 
+  Actions.
+
+- Include a clear notice in the distribution that informs recipients of the 
+  Climate Positive terms of this license.
+
+3. Modifications.
+
+You may modify your copy or copies of the Program or any portion of it, thus 
+forming a work based on the Program, provided you:
+
+- Also meet the Climate Positive conditions for the entirety of the new work.
+
+- Make available the modified source code under the same terms, ensuring any 
+  projects or distributions that utilize your modifications also adhere to 
+  Climate Positive Actions.
+
+4. Non-Compliance Fee.
+
+If you choose not to or are unable to adhere to the Climate Positive Actions 
+for any work that uses the Program (either the original or your modifications):
+
+- You must pay a fee determined by the original Program's copyright holder, 
+  which will be donated to a designated environmental fund or organization that 
+  works to combat the effects of increased CO2 and promote climate-positive 
+  initiatives.
+
+- You may not claim that the Program or any works based on it were produced 
+  with Climate Positive Actions.
+
+End of Terms and Conditions
+
+To apply the CPPL to your work, append the following boilerplate notice, with 
+the fields enclosed by brackets [] replaced by your own identifying information.
+(Don't include the brackets!)
+
+---
+<one line to give the program's name and a brief idea of what it does.>
+Copyright (C) <year> <name of author>
+
+This program is free software: you can redistribute it and/or modify it under 
+the terms of the Climate Positive Public License as published by its authors, 
+version 1.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY 
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
+PARTICULAR PURPOSE. See the Climate Positive Public License for more details.
+---
